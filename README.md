@@ -81,4 +81,4 @@
 <h2>Contributions</h2>
 <p>Contributions are welcome! Feel free to open issues, propose improvements, and collaborate on this project.</p>
 <h2>License</h2>
-<p>This project is licensed under the <a href="https://chat.openai.com/c/LICENSE.md" target="_new">MIT License</a>.</p>
+<p>This project is licensed under the <a href="https://opensource.org/license/mit/" target="_new">MIT License</a>.</p>
